@@ -1,0 +1,14 @@
+.row{
+    display: flex;
+}
+
+.col{
+    height: 50px;
+    width: 50px;
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+}
